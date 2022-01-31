@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akshayaparth
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently working on Final Project for my PGP DSBA course
+- 🌱 I’m currently working as Data Engineer
 - �
 - 📫 How to reach me <akshaya.parth@gmail.com>
 
