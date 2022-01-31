@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akshayaparth
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science and Big data
 - 🌱 I’m currently working as Data Engineer
 - �
 - 📫 How to reach me <akshaya.parth@gmail.com>
